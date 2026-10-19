@@ -1,0 +1,16 @@
+{
+  "uoft":     {"short": "UofT",     "en": "University of Toronto",            "zh": "多伦多大学",            "bg": "#1E3765", "fg": "#FFFFFF"},
+  "rotman":   {"short": "Rotman",   "en": "Rotman Commerce, UofT",            "zh": "多伦多大学 Rotman 商科", "bg": "#1E3765", "fg": "#FFFFFF"},
+  "waterloo": {"short": "Waterloo", "en": "University of Waterloo",           "zh": "滑铁卢大学",            "bg": "#FED34C", "fg": "#111111"},
+  "mcmaster": {"short": "McMaster", "en": "McMaster University",              "zh": "麦克马斯特大学",        "bg": "#7A003C", "fg": "#FFFFFF"},
+  "queens":   {"short": "Queen's",  "en": "Queen's University",               "zh": "女王大学",              "bg": "#9D1939", "fg": "#FFFFFF"},
+  "smith":    {"short": "Smith",    "en": "Smith School of Business, Queen's", "zh": "女王大学史密斯商学院",  "bg": "#002452", "fg": "#FFFFFF"},
+  "ubc":      {"short": "UBC",      "en": "University of British Columbia",   "zh": "英属哥伦比亚大学",      "bg": "#002145", "fg": "#FFFFFF"},
+  "sauder":   {"short": "Sauder",   "en": "UBC Sauder School of Business",    "zh": "UBC 尚德商学院",        "bg": "#0055B7", "fg": "#FFFFFF"},
+  "western":  {"short": "Western",  "en": "Western University",               "zh": "西安大略大学",          "bg": "#4F2683", "fg": "#FFFFFF"},
+  "ivey":     {"short": "Ivey",     "en": "Ivey Business School, Western",    "zh": "西安大略大学 Ivey 商学院", "bg": "#034638", "fg": "#FFFFFF"},
+  "schulich": {"short": "Schulich", "en": "Schulich School of Business, York", "zh": "约克大学舒立克商学院",  "bg": "#E31837", "fg": "#FFFFFF"},
+  "sgu":      {"short": "SGU",      "en": "St. George's University",          "zh": "圣乔治大学",            "bg": "#7B1F2B", "fg": "#FFFFFF"},
+  "uk":       {"short": "UK",       "en": "UK medical schools",               "zh": "英国医学院",            "bg": "#012169", "fg": "#FFFFFF"},
+  "ireland":  {"short": "Ireland",  "en": "Irish medical schools",            "zh": "爱尔兰医学院",          "bg": "#169B62", "fg": "#FFFFFF"}
+}
