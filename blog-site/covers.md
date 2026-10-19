@@ -1,6 +1,6 @@
 # Blog 封面图设计规范（学校 logo 版）
 
-共 22 篇文章，每篇中、英文各一张封面。网站会按这份规范**自动生成**封面（`site/` 构建时输出 SVG），
+共 24 篇文章，每篇中、英文各一张封面。网站会按这份规范**自动生成**封面（`site/` 构建时输出 SVG），
 你只需要把各学校的官方 logo 文件放进 `site/public/logos/`，重新构建就会替换占位标志。
 如果之后想请设计师或 AI 作图出更精致的版本，也按这份规范来。
 
@@ -44,12 +44,12 @@
 
 | 文件名 | 学校 | 用在第几篇 |
 | :--- | :--- | :--- |
-| `uoft.svg` | 多伦多大学（University of Toronto） | 01、06、08、09、13、19 |
+| `uoft.svg` | 多伦多大学（University of Toronto） | 01、06、08、09、13、19、23、24 |
 | `rotman.svg` | 多伦多大学 Rotman 商科（Rotman Commerce, UofT） | 10、12 |
 | `waterloo.svg` | 滑铁卢大学（University of Waterloo） | 01、04、05、08、09、13、14 |
-| `mcmaster.svg` | 麦克马斯特大学（McMaster University） | 04、08、09、13、16、22 |
+| `mcmaster.svg` | 麦克马斯特大学（McMaster University） | 04、08、09、13、16、22、23、24 |
 | `queens.svg` | 女王大学（Queen's University） | 01、04、07、09、19 |
-| `smith.svg` | 女王大学史密斯商学院（Smith School of Business, Queen's） | 10、13、20 |
+| `smith.svg` | 女王大学史密斯商学院（Smith School of Business, Queen's） | 10、13、20、23、24 |
 | `ubc.svg` | 英属哥伦比亚大学（University of British Columbia） | 02、04、09、15 |
 | `sauder.svg` | UBC 尚德商学院（UBC Sauder School of Business） | 01、10、13、19、21 |
 | `western.svg` | 西安大略大学（Western University） | 18 |
@@ -240,3 +240,19 @@
 - **中文标题**：McMaster Health Sciences 申请指南 ｜ 副标题：1,500 字符补充文书写作
 - **英文标题**：McMaster Health Sciences Guide ｜ 副标题：Writing 1,500-character essays
 - **文件**：`/covers/mcmaster-health-sciences-bhsc-supplementary-guide-2026-2027-zh.svg`、`/covers/mcmaster-health-sciences-bhsc-supplementary-guide-2026-2027-en.svg`
+
+### 23. MockView 模拟面试工具
+
+- **logo**：多伦多大学、麦克马斯特大学、女王大学史密斯商学院（3 个 logo 网格）
+- **分类标签**：MockView 工具 / MockView
+- **中文标题**：MockView 模拟面试工具 ｜ 副标题：真实格式 · 学校评分标准 · 英文改法
+- **英文标题**：MockView Mock Interviews ｜ 副标题：Real formats · school rubrics · English fixes
+- **文件**：`/covers/mockview-ai-mock-interview-introduction-zh.svg`、`/covers/mockview-ai-mock-interview-introduction-en.svg`
+
+### 24. MockView 使用指南
+
+- **logo**：多伦多大学、麦克马斯特大学、女王大学史密斯商学院（3 个 logo 网格）
+- **分类标签**：MockView 工具 / MockView
+- **中文标题**：MockView 使用指南 ｜ 副标题：读报告 · 每轮改一项 · 7 天计划
+- **英文标题**：MockView User Guide ｜ 副标题：Read the report · fix one thing · 7-day plan
+- **文件**：`/covers/mockview-user-guide-practice-plan-zh.svg`、`/covers/mockview-user-guide-practice-plan-en.svg`

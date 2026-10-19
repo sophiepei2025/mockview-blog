@@ -9,6 +9,7 @@ CATEGORY_EN = {
     "商科申请": "Business",
     "工程申请": "Engineering",
     "医科与健康科学": "Medicine & Health Sciences",
+    "MockView 工具": "MockView",
 }
 
 EN = {
@@ -517,5 +518,51 @@ EN = {
         ],
         "focus": "your McMaster BHSc essays",
         "cover": {"title": "McMaster Health Sciences Guide", "subtitle": "Writing 1,500-character essays"},
+    },
+    "23_": {
+        "schools": ["uoft", "mcmaster", "smith"],
+        "title": "What Is MockView? Edmoat's AI Mock Interview Tool: Real Formats, School Rubrics and English Fixes You Can Say Out Loud",
+        "seo_title": "What Is MockView? An AI Mock Interview Tool for Canadian Admissions",
+        "seo_description": "MockView is Edmoat's AI interview coach: it follows a target school's real supplementary application format, scores on that school's rubric with score-inflation calibration, quotes your own words and gives English fixes you can say out loud. Live: UofT Engineering, McMaster Engineering and Queen's Commerce.",
+        "excerpt": "Real school formats, scored on the school's rubric, quoting your own words with English fixes: what MockView is, which schools it covers and who it's for.",
+        "answer": "MockView is Edmoat's AI interview coach. It follows a target school's real supplementary application format (question types, prep time, answer length and word cap), scores on that school's rubric with a correction for score inflation, quotes your own words and gives English fixes you can say out loud. UofT Engineering, McMaster Engineering and Queen's Commerce are live.",
+        "tldr": [
+            "Three design choices: real format, the school's own rubric with inflation calibration, and quoted words with English fixes.",
+            "Live: UofT Engineering, McMaster Engineering, Queen's Commerce. Coming soon: Rotman, Ivey AEO, Waterloo.",
+            "120+ real-style questions, and a full run takes about 18 minutes.",
+            "A report is more than a number: it shows your weakest dimension and what to say next time.",
+            "It's a practice tool, not an admissions predictor; your content must come from your own real experience.",
+        ],
+        "faq": [
+            ("What is MockView?", "Edmoat's own AI interview coach for students applying to Canadian undergraduate programs. It follows a target school's real supplementary application format and scores on that school's rubric."),
+            ("Which schools does it support?", "UofT Engineering, McMaster Engineering and Queen's Commerce are live; Rotman Commerce, Ivey AEO and Waterloo are coming soon."),
+            ("Can MockView's score predict admission?", "No. AI scoring is a practice reference for finding problems. It isn't the school's real score and can't promise an outcome."),
+            ("How is it different from practising with a general chatbot?", "MockView follows a school's real format with a real timer, scores on that school's rubric with score-inflation calibration, quotes your own words and gives English fixes you can say out loud."),
+        ],
+        "focus": "MockView mock interviews",
+        "cover": {"title": "MockView Mock Interviews", "subtitle": "Real formats · school rubrics · English fixes"},
+    },
+    "24_": {
+        "schools": ["uoft", "mcmaster", "smith"],
+        "title": "MockView User Guide: A 7-Day Practice Plan From Choosing a School to Reading Your Report",
+        "seo_title": "How to Use MockView: Reading Reports and a 7-Day Practice Plan",
+        "seo_description": "A MockView user guide: five minutes of setup, your first full mock, a three-step way to read your report, common causes of low scores and fixes, and a 7-day practice plan for UofT Engineering, McMaster Engineering and Queen's Commerce.",
+        "excerpt": "How to prepare, how to read the report and which single dimension to fix each round: a MockView guide from your first mock to a 7-day review.",
+        "answer": "To improve with MockView, pick one school and read its guide, treat your first full mock as real to set a baseline, read the report by looking at your weakest dimension, the lines that quote your words and then the English fixes, fix one thing per round, turn the fixes into your own words and follow a 7-day plan.",
+        "tldr": [
+            "Before you start: pick a school, read its guide, set up your space and prepare 5–8 real stories.",
+            "Treat your first full mock as real: no script, no pausing, and record a baseline.",
+            "Read the report in three steps: weakest dimension, quoted words, then the English fixes.",
+            "Fix one weak dimension per round; use the English fixes to learn structure, not to memorise.",
+            "The 7-day rhythm: baseline → structure → specificity → reflection → camera → mixed → review.",
+        ],
+        "faq": [
+            ("How should I do my first mock?", "As if it were real: no script and no pausing. Complete the target school's whole flow, then record your overall band and each dimension as a baseline."),
+            ("How do I read the report?", "Start with the overall band and the one or two lowest dimensions, then the lines that quote your own words, then the English fix attached to each suggestion."),
+            ("Can I memorise the English fixes?", "It's not recommended. They're models for structure and phrasing; memorising flattens your tone, and real reviewers spot it easily."),
+            ("Is seven days enough?", "Seven days builds a baseline and improves each dimension in turn. If a dimension is still low, run another targeted round or ask an advisor for a one-on-one diagnosis."),
+        ],
+        "focus": "MockView mock interviews",
+        "cover": {"title": "MockView User Guide", "subtitle": "Read the report · fix one thing · 7-day plan"},
     },
 }

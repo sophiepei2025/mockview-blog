@@ -278,6 +278,9 @@ def mockview_status(post):
 
 def mid_cta(post):
     slug = post["slug"]
+    if post["mockview"][0] == "product":
+        return ("> 👀 **先试试看：** 光看介绍不如亲自做一次，几分钟就能拿到一份按学校评分标准打分的报告。"
+                f"[打开 MockView →]({utm(MOCKVIEW_URL, slug, 'mid')})")
     if post["mockview"][0] == "writing":
         return (
             "> ✍️ **文书卡住了？** 写完初稿后，最难的是判断它到底好不好。"
@@ -307,6 +310,20 @@ def end_cta(post):
         "（题型、准备时间、作答时长、字数上限都一致），用该校的评分标准打分，"
         "引用你自己说过的原话指出问题，每条修改建议都附一句可以直接说出口的英文表达。"
     )
+    if post["mockview"][0] == "product":
+        return f"""## 开始使用 MockView
+
+读完介绍，最好的下一步就是亲自做一次完整模拟：按目标学校的真实格式、真实计时，拿到一份按该校评分标准打分的报告。
+
+**[打开 MockView，开始第一次模拟 →]({mv})**
+
+目前已上线 UofT Engineering、McMaster Engineering、Queen's Commerce；Rotman、Ivey AEO、Waterloo 即将上线。
+
+### 👩‍🏫 需要有人帮你梳理故事和申请主线？
+
+MockView 帮你高频练习，Edmoat 升学顾问帮你梳理故事库、确定申请主线、打磨文书。我们做你的“单一信任源”：一套策略，从选题跟到提交。
+
+**[预约 1v1 咨询 →]({consult})**"""
     if post["mockview"][0] == "writing":
         return f"""## 下一步：让你的申请材料真正“像你”
 
@@ -389,7 +406,8 @@ def common_fields(post, en, lang, minutes, related):
 
 
 def build_post(post, by_prefix):
-    raw = find_source(post["src"]).read_text(encoding="utf-8")
+    local = ROOT / "build" / "zh" / f"{post['slug']}.md"
+    raw = local.read_text(encoding="utf-8") if local.exists() else find_source(post["src"]).read_text(encoding="utf-8")
     raw = apply_fixes(raw, BRAND_FIXES, required=True)
     raw = apply_fixes(raw, TEXT_FIXES, required=False)
     if "Youthfully" in raw:
@@ -473,6 +491,9 @@ def mockview_status_en(post):
 
 def mid_cta_en(post):
     slug = post["slug"]
+    if post["mockview"][0] == "product":
+        return ("> 👀 **Try it first:** reading about it is no substitute for doing one. In a few minutes you get a report scored on the school's rubric. "
+                f"[Open MockView →]({utm(MOCKVIEW_URL, slug, 'mid')})")
     if post["mockview"][0] == "writing":
         return ("> ✍️ **Stuck on a draft?** The hardest part is knowing whether it's actually good. "
                 f"An Edmoat advisor can run a replace-the-name review with you. [Book a 1:1 consultation →]({utm(CONSULT_URL, slug, 'mid')})")
@@ -490,6 +511,20 @@ def end_cta_en(post, en):
     )
     consult_line = ("An Edmoat advisor can be your single source of truth: help you build your story bank, "
                     f"sharpen your writing and run one-on-one mocks for {focus}, from first draft to submission.")
+    if post["mockview"][0] == "product":
+        return f"""## Start using MockView
+
+The best next step after reading is to do a full mock yourself: your target school's real format, a real timer and a report scored on that school's rubric.
+
+**[Open MockView and start your first mock →]({mv})**
+
+UofT Engineering, McMaster Engineering and Queen's Commerce are live; Rotman, Ivey AEO and Waterloo are coming soon.
+
+### 👩‍🏫 Need help shaping your stories and application thread?
+
+MockView gives you frequent practice; an Edmoat advisor helps you build your story bank, set your application thread and sharpen your writing. We act as your single source of truth: one strategy, from topic choice to submission.
+
+**[Book a 1:1 consultation →]({consult})**"""
     if post["mockview"][0] == "writing":
         return f"""## Next step: make your application sound like you
 
