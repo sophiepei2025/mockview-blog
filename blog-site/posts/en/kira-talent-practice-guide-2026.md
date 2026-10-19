@@ -16,7 +16,7 @@ coverTitle: "Kira Talent Prep Guide"
 coverSubtitle: "5-step method · story bank · 7-day plan"
 seoTitle: "How to Prepare for Kira Talent (2026): Rubric + 5-Step Method"
 seoDescription: "Kira Talent video interviews are scored by people, and scripted answers lose points. This guide breaks down the 1–5 rubric, a 5-step answer method, the STAR+R structure, an 8-scenario story bank and a 7-day practice plan for Waterloo, UofT, Queen's and UBC Sauder."
-readingTime: 14
+readingTime: 15
 faq: [{"q": "Is Kira Talent scored by AI?", "a": "No. Video answers are scored by 30,000+ human reviewers calibrated to each school's rubric. AI only handles technical checks like spelling and grammar on written answers."}, {"q": "Can I re-record a Kira answer?", "a": "Usually not. Most programs give 1–2 minutes to prepare and 1–2 minutes to answer with no redos, so practise under the same timing in advance."}, {"q": "How should I split a 2-minute answer?", "a": "Roughly 15 seconds of situation, 10 of task, 60 of action, 15 of result and 20 of reflection. Aim to use 80%–90% of the time, about 1:40 to 1:50."}, {"q": "How many stories do I need?", "a": "Five to eight, covering leadership, teamwork, conflict, unexpected change, failure and feedback, limited resources, pressure and a moment that changed how you think."}]
 related: ["kira-talent-scoring-what-universities-look-for-2026", "kira-talent-sample-answers-strong-vs-weak-2026", "kira-talent-video-interview-tips-canada"]
 status: "published"
@@ -33,7 +33,7 @@ fullTranslation: true
 - Reflection (+R) takes about 20% of your time and separates a 3 from a 5.
 - Seven days of record–review–re-record on 3–5 questions a day can take you from a 1 to a 4–5.
 
-*Last updated: 2026-10-19 · By Edmoat Admissions Advisors · 14 min read*
+*Last updated: 2026-10-19 · By Edmoat Admissions Advisors · 15 min read*
 
 ---
 
@@ -73,37 +73,15 @@ The table below sets out the 1–5 scoring criteria and what a typical answer so
 
 Kira Talent is one platform, but top programs use it very differently:
 
-```
-+---------------------------------------------------------------------------------------------------+
-|                         How top programs use Kira: formats and strategy                            |
-+------------------------------------+--------------------------------------------------------------+
-| Program                            | Format, competencies and what to focus on                    |
-+------------------------------------+--------------------------------------------------------------+
-| Queen's Health Sciences            | • Format: 10-minute written response (335-word cap) + video  |
-|                                    | • Competencies: the seven CanMEDS roles (collaborator,       |
-|                                    |   communicator, advocate, leader, scholar, professional,     |
-|                                    |   content expert).                                           |
-|                                    | • Focus: show "upstream thinking" about systemic health      |
-|                                    |   issues and empathy for multiple perspectives.              |
-+------------------------------------+--------------------------------------------------------------+
-| UofT Engineering                   | • Format: technical/analytical prompts (e.g. name 3 key      |
-|                                    |   variables in an experiment: panel tilt, sun exposure,      |
-|                                    |   surface area) and frontier concepts (e.g. entanglement).   |
-|                                    | • Competencies: critical thinking, variable control,         |
-|                                    |   explaining engineering concepts intuitively.               |
-|                                    | • Focus: set up a structure fast and reason step by step.    |
-+------------------------------------+--------------------------------------------------------------+
-| UBC Sauder                         | • Format: Personal Profile + two back-to-back random videos. |
-|                                    | • Competencies: soft skills, community impact, fit with the  |
-|                                    |   CUS student culture.                                       |
-|                                    | • Focus: real leadership friction and genuine fit with CUS.  |
-+------------------------------------+--------------------------------------------------------------+
-| McMaster Health Sciences (BHSc)    | • Format: inquiry-based written prompts (1,500 characters).  |
-|                                    | • Competencies: critical reasoning, self-examination,        |
-|                                    |   intellectual honesty.                                      |
-|                                    | • Focus: no templates; show your own line of thinking.       |
-+------------------------------------+--------------------------------------------------------------+
-```
+**How top programs use Kira: formats and strategy**
+
+| Program | Format, competencies and what to focus on |
+| --- | --- |
+| Queen's Health Sciences | • Format: 10-minute written response (335-word cap) + video<br>• Competencies: the seven CanMEDS roles (collaborator,<br>communicator, advocate, leader, scholar, professional,<br>content expert).<br>• Focus: show "upstream thinking" about systemic health<br>issues and empathy for multiple perspectives. |
+| UofT Engineering | • Format: technical/analytical prompts (e.g. name 3 key<br>variables in an experiment: panel tilt, sun exposure,<br>surface area) and frontier concepts (e.g. entanglement).<br>• Competencies: critical thinking, variable control,<br>explaining engineering concepts intuitively.<br>• Focus: set up a structure fast and reason step by step. |
+| UBC Sauder | • Format: Personal Profile + two back-to-back random videos.<br>• Competencies: soft skills, community impact, fit with the<br>CUS student culture.<br>• Focus: real leadership friction and genuine fit with CUS. |
+| McMaster Health Sciences (BHSc) | • Format: inquiry-based written prompts (1,500 characters).<br>• Competencies: critical reasoning, self-examination,<br>intellectual honesty.<br>• Focus: no templates; show your own line of thinking. |
+
 
 ---
 
@@ -137,30 +115,16 @@ Pull the best match from your prepared story bank. **Don't force an impressive b
 ### 2.4 Step 4: Build three beats / STAR+R
 Never ramble. For a 2-minute answer, split your time like this:
 
-```
-+---------------------------------------------------------------------------------------------------+
-|                                   STAR+R timing and structure                                       |
-+-----------------------------------+---------------------------------------------------------------+
-| Beat                              | Share of time and what to deliver                             |
-+-----------------------------------+---------------------------------------------------------------+
-| S (Situation)                     | • 10%–15% (about 15 seconds)                                  |
-|                                   | • Set the scene with the 5 Ws, fast. No long build-up.        |
-+-----------------------------------+---------------------------------------------------------------+
-| T (Task)                          | • 10% (about 10 seconds)                                      |
-|                                   | • Name the core friction, constraint or conflict.             |
-+-----------------------------------+---------------------------------------------------------------+
-| A (Action)                        | • 50% (about 60 seconds)                                      |
-|                                   | • The heart of the answer: the steps you took, why, how you   |
-|                                   |   handled stakeholders and friction. Show, don't tell.        |
-+-----------------------------------+---------------------------------------------------------------+
-| R (Result)                        | • 10% (about 15 seconds)                                      |
-|                                   | • Clear outcomes and measurable numbers.                      |
-+-----------------------------------+---------------------------------------------------------------+
-| +R (Takeaway / Reflection)        | • 20% (about 20 seconds)                                      |
-|                                   | • What separates a 3 from a 5: how your thinking and          |
-|                                   |   behaviour changed.                                          |
-+-----------------------------------+---------------------------------------------------------------+
-```
+**STAR+R timing and structure**
+
+| Beat | Share of time and what to deliver |
+| --- | --- |
+| S (Situation) | • 10%–15% (about 15 seconds)<br>• Set the scene with the 5 Ws, fast. No long build-up. |
+| T (Task) | • 10% (about 10 seconds)<br>• Name the core friction, constraint or conflict. |
+| A (Action) | • 50% (about 60 seconds)<br>• The heart of the answer: the steps you took, why, how you<br>handled stakeholders and friction. Show, don't tell. |
+| R (Result) | • 10% (about 15 seconds)<br>• Clear outcomes and measurable numbers. |
+| +R (Takeaway / Reflection) | • 20% (about 20 seconds)<br>• What separates a 3 from a 5: how your thinking and<br>behaviour changed. |
+
 
 > **Weak reflection vs. deep reflection:**
 >

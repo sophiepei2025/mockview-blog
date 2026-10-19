@@ -153,6 +153,112 @@ def fence_box_drawings(lines):
     return out
 
 
+SEP = re.compile(r"^\s*\+[-=+]+\+\s*$")
+
+
+def box_to_ascii(line):
+    """把 ┌─┬─┐ 这类制表符画的线转成 +---+ 和 |，交给同一个表格解析器。"""
+    s = line.rstrip()
+    if re.match(r"^\s*[┌├└]", s):
+        s = re.sub("─+", lambda m: "-" * len(m.group(0)), s)
+        return "".join("+" if ch in "┌┬┐├┼┤└┴┘" else ch for ch in s)
+    return s.replace("│", "|")
+
+
+def unbox_tables(lines):
+    """把 +---+ 画的表格（放在代码块里）转成 Markdown 表格，网页上不会挤爆也不会错位。"""
+    out, i = [], 0
+    while i < len(lines):
+        if not lines[i].strip().startswith("```"):
+            out.append(lines[i])
+            i += 1
+            continue
+        j = i + 1
+        while j < len(lines) and not lines[j].strip().startswith("```"):
+            j += 1
+        body = [l for l in lines[i + 1:j] if l.strip()]
+        if body and re.match(r"^\s*[┌├└]", body[0]):
+            body = [box_to_ascii(l) for l in body]
+        table = to_markdown_table(body) if body and SEP.match(body[0]) else None
+        flow = to_flow_steps(body) if body and SEP.match(body[0]) and not table else None
+        if table:
+            out += table
+        elif flow:
+            out += flow
+        else:
+            out += lines[i:j + 1]
+        i = j + 1
+    return out
+
+
+def to_flow_steps(body):
+    """流程图（+---+ 方框加 | v 箭头）改成编号步骤列表。"""
+    steps = []
+    for l in body:
+        s = l.strip()
+        if SEP.match(l) or s in ("|", "v", "V") or s.startswith("v") and len(s) < 3:
+            continue
+        if s.startswith("|") and s.endswith("|"):
+            text = s.strip("|").strip()
+            if text:
+                steps.append(text)
+    if not steps:
+        return None
+    lines = []
+    for n, text in enumerate(steps):
+        lines.append(f"{n + 1}. {text}" if n else f"**{text}**")
+    return lines + [""]
+
+
+def to_markdown_table(body):
+    """body 每一行要么是分隔线（+---+），要么是 | 单元格 | 行。无法解析时返回 None。"""
+    if not all(SEP.match(l) or l.strip().startswith("|") for l in body):
+        return None
+    groups, current = [], []
+    for l in body:
+        if SEP.match(l):
+            if current:
+                groups.append(current)
+            current = []
+        else:
+            current.append(l)
+    if current:
+        groups.append(current)
+    def split(line):
+        s = line.strip()
+        s = s[1:-1] if s.endswith("|") else s[1:]
+        return [p.strip() for p in s.split("|")]
+
+    # 只有一个单元格的行是跨列标题（如表格顶上的标题），单独成段
+    captions, rows, width = [], [], None
+    for group in groups:
+        parsed = [split(l) for l in group]
+        if len(parsed) == 1 and len(parsed[0]) == 1 and parsed[0][0]:
+            captions.append(parsed[0][0])
+            continue
+        if any(len(p) != len(parsed[0]) for p in parsed):
+            return None
+        if width is None:
+            width = len(parsed[0])
+        if len(parsed[0]) != width:
+            return None
+        cells = [[] for _ in range(width)]
+        for parts in parsed:
+            for k, p in enumerate(parts):
+                if p:
+                    cells[k].append(p)
+        rows.append(["<br>".join(c) for c in cells])
+    if not rows or width is None or width < 1:
+        return None
+    out = [f"**{c}**" for c in captions]
+    if out:
+        out.append("")
+    header, body_rows = rows[0], rows[1:]
+    out += ["| " + " | ".join(header) + " |", "| " + " | ".join(["---"] * width) + " |"]
+    out += ["| " + " | ".join(r) + " |" for r in body_rows]
+    return out + [""]
+
+
 def utm(url, slug, where):
     return f"{url}?utm_source=edmoat_blog&utm_medium=cta&utm_campaign={slug}&utm_content={where}"
 
@@ -290,6 +396,7 @@ def build_post(post, by_prefix):
         raise SystemExit(f"{post['src']} 还有未处理的 Youthfully")
 
     lines = strip_title(raw.splitlines())
+    lines = unbox_tables(lines)
     lines = normalize_headings(lines)
     lines = fix_tables(lines)
     lines = fence_box_drawings(lines)
@@ -428,7 +535,7 @@ def build_post_en(post, en, related, h2_index, by_prefix):
     related_md = "\n".join(f"- [{EN[r['src']]['title']}]({post_url('en', r['slug'])})" for r in related)
 
     if translation.exists():
-        lines = translation.read_text(encoding="utf-8").strip().splitlines()
+        lines = unbox_tables(translation.read_text(encoding="utf-8").strip().splitlines())
         h2_positions = [i for i, l in enumerate(lines) if l.startswith("## ")]
         at = h2_positions[min(h2_index, len(h2_positions) - 1)]
         lines[at:at] = [mid_cta_en(post), ""]

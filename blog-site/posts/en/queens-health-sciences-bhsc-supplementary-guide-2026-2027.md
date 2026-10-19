@@ -71,47 +71,20 @@ Academically, Queen's looks at your Grade 12 Top-6 average, with a threshold in 
 
 Applying to Queen's Health Sciences takes careful timing and preparation. Here is the full process from OUAC to completing the supplementary application:
 
-```
-+-----------------------------------------------------------------------------------+
-|                         Queen's BHSc application workflow                          |
-+-----------------------------------------------------------------------------------+
-                                          |
-                                          v
-+-----------------------------------------------------------------------------------+
-| Step 1: Apply through OUAC                                                        |
-| - Choose Queen's University BHSc on OUAC and submit your basic information        |
-+-----------------------------------------------------------------------------------+
-                                          |
-                                          v
-+-----------------------------------------------------------------------------------+
-| Step 2: Receive portal credentials and supplementary application access          |
-| - Get your Queen's portal (SOLUS / Supp App Portal) login and access              |
-+-----------------------------------------------------------------------------------+
-                                          |
-                                          v
-+-----------------------------------------------------------------------------------+
-| Step 3: Build your experience bank                                                |
-| - Review the last 2–3 years against the official rubric; prepare STAR+T stories   |
-+-----------------------------------------------------------------------------------+
-                                          |
-                                          v
-+-----------------------------------------------------------------------------------+
-| Step 4: Log in to the Supp App Portal                                             |
-| - Check camera/mic/connection, confirm a quiet room, then start                   |
-+-----------------------------------------------------------------------------------+
-                                          |
-                                          v
-+-----------------------------------------------------------------------------------+
-| Step 5: Complete the 10-minute timed written response                             |
-| - Random prompt; 10-minute countdown; 335-word cap; no preview; no copy-paste     |
-+-----------------------------------------------------------------------------------+
-                                          |
-                                          v
-+-----------------------------------------------------------------------------------+
-| Step 6: (After a break) complete the video interview                              |
-| - Random prompt; 2 minutes to prepare; 2 minutes to record; one take, no redos    |
-+-----------------------------------------------------------------------------------+
-```
+**Queen's BHSc application workflow**
+2. Step 1: Apply through OUAC
+3. - Choose Queen's University BHSc on OUAC and submit your basic information
+4. Step 2: Receive portal credentials and supplementary application access
+5. - Get your Queen's portal (SOLUS / Supp App Portal) login and access
+6. Step 3: Build your experience bank
+7. - Review the last 2–3 years against the official rubric; prepare STAR+T stories
+8. Step 4: Log in to the Supp App Portal
+9. - Check camera/mic/connection, confirm a quiet room, then start
+10. Step 5: Complete the 10-minute timed written response
+11. - Random prompt; 10-minute countdown; 335-word cap; no preview; no copy-paste
+12. Step 6: (After a break) complete the video interview
+13. - Random prompt; 2 minutes to prepare; 2 minutes to record; one take, no redos
+
 
 ### Step-by-step guide
 
@@ -185,17 +158,11 @@ The Queen's video interview tests how you communicate under pressure, how logica
 
 For behavioural questions, follow **STAR + T** and control your timing within 2 minutes (120 seconds):
 
-```
-+-----------------------------------------------------------------------------------+
-|                              STAR + T timing model                                 |
-+-----------------------------------------------------------------------------------+
-| S - Situation       | `15–20s`  | Minimal background, time and place; no long build-up  |
-| T - Task            | `15–20s`  | The core task, conflict or bottleneck                 |
-| A - Action          | `40–50s`  | **The core:** the specific steps "I" took and why     |
-| R - Result          | `15–20s`  | Quantified or concrete outcome and team impact        |
-| T - Takeaway        | `20–25s`  | **Key to a high score:** mindset and behaviour change |
-+-----------------------------------------------------------------------------------+
-```
+**STAR + T timing model**
+
+| S - Situation<br>T - Task<br>A - Action<br>R - Result<br>T - Takeaway | `15–20s`<br>`15–20s`<br>`40–50s`<br>`15–20s`<br>`20–25s` | Minimal background, time and place; no long build-up<br>The core task, conflict or bottleneck<br>**The core:** the specific steps "I" took and why<br>Quantified or concrete outcome and team impact<br>**Key to a high score:** mindset and behaviour change |
+| --- | --- | --- |
+
 
 #### **Situation (`15–20s`)**: get straight to the background and setting.
 #### **Task (`15–20s`)**: the responsibility you had, the difficulty you faced or the conflict to resolve.

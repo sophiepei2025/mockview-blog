@@ -108,16 +108,11 @@ The UofT Engineering 250-word essay doesn't test literary style. It tests **your
 
 With only 250 words, allocate them like engineering code:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│ 250-word budget                                                         │
-├───────────────────────────────────┬─────────────────────────────────────┤
-│ Part 1: Define the system boundary │ 10% (~25 words)                     │
-│ Part 2: Isolate and control three  │ 70% (~175 words)                    │
-│         variables                  │                                     │
-│ Part 3: Evaluate and attribute     │ 20% (~50 words)                     │
-└───────────────────────────────────┴─────────────────────────────────────┘
-```
+**250-word budget**
+
+| Part 1: Define the system boundary<br>Part 2: Isolate and control three<br>variables<br>Part 3: Evaluate and attribute | 10% (~25 words)<br>70% (~175 words)<br>20% (~50 words) |
+| --- | --- |
+
 
 ### A worked example
 
@@ -208,20 +203,11 @@ In a 1–2 minute Kira answer, it's easy to slip into "first… then… finally�
 
 ### The four-step framework on a 2-minute timeline
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│ Kira Talent 2-minute answer timeline (deductive + STAR)                 │
-├───────────────────┬─────────────────────────────────────────────────────┤
-│ 1. Conclusion     │ Lead with your core point, choice or system         │
-│    (0–15s)        │ boundary (10%)                                      │
-│ 2. Reasons        │ 2–3 engineering reasons that support it (20%)       │
-│    (15–35s)       │                                                     │
-│ 3. Example        │ A STAR example, focused on Action and quantified    │
-│    (35–95s)       │ Result                                              │
-│ 4. Meaning        │ Reflection: how it changed your thinking and        │
-│    (95–120s)      │ behaviour (20%)                                     │
-└───────────────────┴─────────────────────────────────────────────────────┘
-```
+**Kira Talent 2-minute answer timeline (deductive + STAR)**
+
+| 1. Conclusion<br>(0–15s)<br>2. Reasons<br>(15–35s)<br>3. Example<br>(35–95s)<br>4. Meaning<br>(95–120s) | Lead with your core point, choice or system<br>boundary (10%)<br>2–3 engineering reasons that support it (20%)<br>A STAR example, focused on Action and quantified<br>Result<br>Reflection: how it changed your thinking and<br>behaviour (20%) |
+| --- | --- |
+
 
 ---
 

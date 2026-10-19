@@ -199,20 +199,12 @@ When writing or preparing answers, use the same check admissions uses:
 #### STAR-T and a template
 When asked about academic setbacks, failures or weaknesses, don't dress a minor flaw up as a fake success story. SGU interviewers care a great deal about authenticity and self-examination. Use **STAR-T**:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│                         STAR-T answer structure                          │
-├─────────────────┬──────────────────────────────────────────┬────────────┤
-│ Stage           │ What it covers                           │ Share      │
-├─────────────────┼──────────────────────────────────────────┼────────────┤
-│ S - Situation   │ Brief background and the real difficulty │ ~15%       │
-│ T - Task        │ The goal or responsibility at the time   │ ~15%       │
-│ A - Action      │ The specific steps you took              │ ~30%       │
-│ R - Result      │ The honest outcome, including shortfalls │ ~20%       │
-│ T - Takeaway    │ Deep reflection; how thinking and later  │ ~20%       │
-│                 │ behaviour changed                        │            │
-└─────────────────┴──────────────────────────────────────────┴────────────┘
-```
+**STAR-T answer structure**
+
+| Stage | What it covers | Share |
+| --- | --- | --- |
+| S - Situation<br>T - Task<br>A - Action<br>R - Result<br>T - Takeaway | Brief background and the real difficulty<br>The goal or responsibility at the time<br>The specific steps you took<br>The honest outcome, including shortfalls<br>Deep reflection; how thinking and later<br>behaviour changed | ~15%<br>~15%<br>~30%<br>~20%<br>~20% |
+
 
 > **STAR-T in practice (an academic setback / recovery question):**
 > * **[Situation / Task]:** "On my Grade 11 advanced chemistry midterm, I scored only 65% because I hadn't grasped the logic of chemical kinetics calculations — a big blow for someone used to high marks."

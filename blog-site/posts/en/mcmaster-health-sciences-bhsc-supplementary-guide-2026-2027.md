@@ -51,30 +51,15 @@ McMaster's Bachelor of Health Sciences (BHSc) is widely regarded as one of the m
 
 ### Process flow
 
-```text
-┌────────────────────────────────────────────────────────┐
-│  Stage 1: preparation and building your experience bank (September – October) │
-│  · Decide your direction, review your experiences and build a deep experience bank │
-└───────────────────────────┬────────────────────────────┘
-                            │
-                            ▼
-┌────────────────────────────────────────────────────────┐
-│  Stage 2: OUAC submission and activating the Mosaic portal (October – November) │
-│  · Submit the basic OUAC application, get your McMaster ID and activate your Mosaic account │
-└───────────────────────────┬────────────────────────────┘
-                            │
-                            ▼
-┌────────────────────────────────────────────────────────┐
-│  Stage 3: drafting and polishing the supplementary essays (October – January) │
-│  · Analyse the prompts, choose your material, go through several rounds of deep self-exploration and tighten your logic │
-└───────────────────────────┬────────────────────────────┘
-                            │
-                            ▼
-┌────────────────────────────────────────────────────────┐
-│  Stage 4: final submission and archiving (before the January deadline) │
-│  · Submit both supplementary essays within the character limits, and finish archiving in Mosaic │
-└────────────────────────────────────────────────────────┘
-```
+**Stage 1: preparation and building your experience bank (September – October)**
+2. · Decide your direction, review your experiences and build a deep experience bank
+3. Stage 2: OUAC submission and activating the Mosaic portal (October – November)
+4. · Submit the basic OUAC application, get your McMaster ID and activate your Mosaic account
+5. Stage 3: drafting and polishing the supplementary essays (October – January)
+6. · Analyse the prompts, choose your material, go through several rounds of deep self-exploration and tighten your logic
+7. Stage 4: final submission and archiving (before the January deadline)
+8. · Submit both supplementary essays within the character limits, and finish archiving in Mosaic
+
 
 ### Stage-by-stage guidance
 

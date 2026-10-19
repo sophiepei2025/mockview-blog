@@ -67,30 +67,15 @@ To perform at your best, follow a standard process.
 
 ### The full process
 
-```
-+-------------------------------------------------------------------+
-|                     1. Environment                                |
-|  [Quiet private room] -> [Good face lighting] -> [Tidy background] -> [Business casual] |
-+-------------------------------------------------------------------+
-                                  |
-                                  v
-+-------------------------------------------------------------------+
-|                  2. Hardware & testing                            |
-| [Eye-level camera] -> [Audio and network test] -> [Simulator: 4 metrics] |
-+-------------------------------------------------------------------+
-                                  |
-                                  v
-+-------------------------------------------------------------------+
-|                     3. Live delivery                              |
-|  [Eyes on the lens] -> [Slower pace] -> [Natural gestures] -> [Warm energy] |
-+-------------------------------------------------------------------+
-                                  |
-                                  v
-+-------------------------------------------------------------------+
-|              4. Troubleshooting & composure                       |
-|  [Unfamiliar question] -> [One-second pause] -> [Reorganise] -> [Finish the structure] |
-+-------------------------------------------------------------------+
-```
+**1. Environment**
+2. [Quiet private room] -> [Good face lighting] -> [Tidy background] -> [Business casual]
+3. 2. Hardware & testing
+4. [Eye-level camera] -> [Audio and network test] -> [Simulator: 4 metrics]
+5. 3. Live delivery
+6. [Eyes on the lens] -> [Slower pace] -> [Natural gestures] -> [Warm energy]
+7. 4. Troubleshooting & composure
+8. [Unfamiliar question] -> [One-second pause] -> [Reorganise] -> [Finish the structure]
+
 
 ### The four stages in detail
 

@@ -114,13 +114,11 @@ How early you start and how deeply you plan set the ceiling on your application:
 
 UBC's trained readers score the Personal Profile on four core criteria (on a 1–5 scale). Readers go through thousands of profiles each year and have strong **pattern recognition**: any abstract claim without supporting fact is instantly flagged as generic.
 
-```
-+-----------------------------------------------------------------------------------+
-|                     UBC Personal Profile: four scoring criteria                    |
-+-------------------+-------------------+-------------------+-----------------------+
-|  Engagement       |  Leadership       |  Substance        |  Voice                |
-+-------------------+-------------------+-------------------+-----------------------+
-```
+**UBC Personal Profile: four scoring criteria**
+
+| Engagement | Leadership | Substance | Voice |
+| --- | --- | --- | --- |
+
 
 ### 1. Engagement
 * **What readers look for:** how long you've been involved (**longevity**) and the real **responsibility** you carried.
@@ -186,19 +184,13 @@ To avoid mixing instructions with examples, the **"Rewritten (strong)"** column 
 #### 1. The STAR ratio
 In the long-answer questions, don't spread your words evenly. Readers don't care about a long backstory; they care about what you did and how deeply you thought about it:
 
-```
-+-----------------------------------------------------------------------------------+
-|                               STAR word allocation                                 |
-+------------------------------------+----------------------------------------------+
-| Situation / Task (~15%)            | Set the scene and goal in no more than two   |
-|                                    | sentences                                    |
-+------------------------------------+----------------------------------------------+
-| Action (~55%)                      | The specific steps "I" took, the resistance  |
-|                                    | I met and my strategy                        |
-+------------------------------------+----------------------------------------------+
-| Result / Reflection (~30%)         | Measurable results + the shift in thinking   |
-+------------------------------------+----------------------------------------------+
-```
+**STAR word allocation**
+
+| Situation / Task (~15%) | Set the scene and goal in no more than two<br>sentences |
+| --- | --- |
+| Action (~55%) | The specific steps "I" took, the resistance<br>I met and my strategy |
+| Result / Reflection (~30%) | Measurable results + the shift in thinking |
+
 
 * **What full-marks reflection looks like:** not "I learned teamwork is important," but a real **cognitive shift**.
   * *Weak reflection:* "I learned that a leader needs to communicate more with the team."

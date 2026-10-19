@@ -172,9 +172,9 @@ a { color: var(--moat); }
 .prose code { font-family: var(--f-mono); font-size: .88em; background: var(--ground-2); padding: 1px 6px; border-radius: 5px; }
 .prose pre {
   background: var(--paper); border: 1px solid var(--rule); border-radius: 10px;
-  padding: 16px; overflow-x: auto; font-size: 13px; line-height: 1.5; margin: 0 0 24px;
+  padding: 16px; overflow-x: auto; font-size: 13px; line-height: 1.5; margin: 0 0 24px; white-space: pre-wrap; word-break: break-word;
 }
-.prose pre code { background: none; padding: 0; font-size: inherit; white-space: pre; }
+.prose pre code { background: none; padding: 0; font-size: inherit; white-space: pre-wrap; overflow-wrap: anywhere; }
 .table-wrap { overflow-x: auto; margin: 0 0 24px; border: 1px solid var(--rule); border-radius: 10px; background: var(--paper); }
 .prose table { border-collapse: collapse; width: 100%; font-size: 15px; line-height: 1.55; min-width: 560px; }
 .prose th, .prose td { padding: 10px 14px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule); }

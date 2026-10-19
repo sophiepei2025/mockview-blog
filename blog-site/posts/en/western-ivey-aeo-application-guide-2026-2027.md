@@ -43,49 +43,26 @@ fullTranslation: true
 
 The supplementary application for Western Ivey AEO (Advanced Entry Opportunity) has many parts and is highly competitive. Here is the full process from first submission to completion:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│ Step 1: OUAC application                                                │
-│ • Apply to your intended Western program through OUAC                   │
-│   (e.g. BMOS, Engineering, Science)                                     │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │
-                                     ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│ Step 2: Get your Western Student ID and activate the Ivey Portal        │
-│ • Once you receive your Western ID, log in to the Ivey supplementary    │
-│   application portal                                                    │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │
-                                     ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│ Step 3: Review your background and assign referees                      │
-│ • Choose experiences with the T-model; name teachers or supervisors     │
-│   who can confirm the details                                           │
-│ • Add referee emails in the portal and send official verification       │
-│   requests                                                              │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │
-                                     ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│ Step 4: Write the core essays and the supplementary table               │
-│ • Two 500-word core leadership essays                                   │
-│ • Five supplementary activities and up to 15 awards                     │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │
-                                     ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│ Step 5: Record the Kira video interview                                 │
-│ • Complete five timed video/written questions on Kira with no redos     │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │
-                                     ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│ Step 6: Final review and submission                                     │
-│ • Check essay flow, confirm referee verification, submit before the     │
-│   official deadline                                                     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+**Step 1: OUAC application**
+2. • Apply to your intended Western program through OUAC
+3. (e.g. BMOS, Engineering, Science)
+4. Step 2: Get your Western Student ID and activate the Ivey Portal
+5. • Once you receive your Western ID, log in to the Ivey supplementary
+6. application portal
+7. Step 3: Review your background and assign referees
+8. • Choose experiences with the T-model; name teachers or supervisors
+9. who can confirm the details
+10. • Add referee emails in the portal and send official verification
+11. requests
+12. Step 4: Write the core essays and the supplementary table
+13. • Two 500-word core leadership essays
+14. • Five supplementary activities and up to 15 awards
+15. Step 5: Record the Kira video interview
+16. • Complete five timed video/written questions on Kira with no redos
+17. Step 6: Final review and submission
+18. • Check essay flow, confirm referee verification, submit before the
+19. official deadline
+
 
 ---
 
@@ -121,22 +98,10 @@ When you start determines how deep your essays go and how well your referees can
 
 Western Ivey AEO is assessed on a strict **50% academic grades + 50% supplementary application (leadership and overall profile)** basis.
 
-```
-                    ┌─────────────────────────────────────────┐
-                    │        Western Ivey AEO assessment      │
-                    └────────────────────┬────────────────────┘
-                                         │
-                    ┌────────────────────┴────────────────────┐
-                    │                                         │
-       ┌────────────▼────────────┐               ┌────────────▼────────────┐
-       │      Academics          │               │  Leadership / supp app  │
-       │          50%            │               │          50%            │
-       └────────────┬────────────┘               └────────────┬────────────┘
-                    │                                         │
-        • Top-6 average is the entry ticket (90%+)  • Two 500-word leadership essays
-        • Little differentiation with inflation     • 5 activities + 15 awards
-        • Keep 80%+ in first two university years   • Kira 5-question video (human-scored)
-```
+**Western Ivey AEO assessment**
+2. Academics          |               |  Leadership / supp app
+3. 50%            |               |          50%
+
 
 ### 2.1 The academic 50%: thresholds and tiers
 
@@ -195,28 +160,19 @@ Drop "Since I was young…" and "I have always been passionate about business." 
 
 To keep the essay tight and focused, allocate the 500 words like this:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│ 1. Hook                        [~10% | 50 words]                        │
-│    • A moment of conflict, a dramatic failure or a surprising fact.     │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 2. Context (the 5 Ws)          [~15% | 75 words]                        │
-│    • When, where, your role and the resource constraints.               │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 3. Catalyst                    [~15% | 75 words]                        │
-│    • The core crisis, team disagreement or breakdown.                   │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 4. Core action                 [~30% | 150 words] (the heart of it)     │
-│    • Your decisions, how you mobilized people and the path you took.    │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 5. Outcome                     [~15% | 75 words]                        │
-│    • Precise data showing your actions worked and the project's scale.  │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 6. Takeaway                    [~15% | 75 words]                        │
-│    • How your thinking evolved and how it reshaped your leadership.     │
-└─────────────────────────────────────────────────────────────────────────┘
-  Total: 100% | 500 words
-```
+**1. Hook                        [~10% | 50 words]**
+2. • A moment of conflict, a dramatic failure or a surprising fact.
+3. 2. Context (the 5 Ws)          [~15% | 75 words]
+4. • When, where, your role and the resource constraints.
+5. 3. Catalyst                    [~15% | 75 words]
+6. • The core crisis, team disagreement or breakdown.
+7. 4. Core action                 [~30% | 150 words] (the heart of it)
+8. • Your decisions, how you mobilized people and the path you took.
+9. 5. Outcome                     [~15% | 75 words]
+10. • Precise data showing your actions worked and the project's scale.
+11. 6. Takeaway                    [~15% | 75 words]
+12. • How your thinking evolved and how it reshaped your leadership.
+
 
 #### Example hooks
 
@@ -376,19 +332,13 @@ T (Takeaway)   ─► Deep reflection, mindset shift and future application (15�
 
 In the Kira interview, **reciting a prepared script is a fatal mistake.** Reviewers can tell within seconds from these audio and visual signals:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                Scripted / read vs. natural, authentic answers            │
-├───────────────────────────────────┬─────────────────────────────────────┤
-│ 1. Voice dynamics                 │ • Tone goes flat and mechanical.    │
-├───────────────────────────────────┼─────────────────────────────────────┤
-│ 2. Eye contact                    │ • Eyes scan left and right (reading │
-│                                   │   the screen or notes).             │
-├───────────────────────────────────┼─────────────────────────────────────┤
-│ 3. Pacing and pauses              │ • Fast, even pace with pauses in    │
-│                                   │   unnatural places.                 │
-└───────────────────────────────────┴─────────────────────────────────────┘
-```
+**Scripted / read vs. natural, authentic answers**
+
+| 1. Voice dynamics | • Tone goes flat and mechanical. |
+| --- | --- |
+| 2. Eye contact | • Eyes scan left and right (reading<br>the screen or notes). |
+| 3. Pacing and pauses | • Fast, even pace with pauses in<br>unnatural places. |
+
 
 **What reviewers actually say:** "The whole reason we use Kira is to see the real student. When we get scripted responses it's really disappointing."
 
